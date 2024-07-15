@@ -14,3 +14,13 @@ data/processed/
 
 # VSCode settings
 .vscode/
+
+data/
+
+adluido/
+
+processed**
+
+*.pt
+
+*.npy
