@@ -8,3 +8,7 @@ matplotlib
 pytesseract
 segmentation-models-pytorch
 jupyterlab
+pandas
+numpy
+opencv-python
+ultralytics
